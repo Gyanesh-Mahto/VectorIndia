@@ -4,5 +4,9 @@ int main()
 int *p = 10;
 printf("%u\n", p);
 printf("%d\n",*p);
-
 }
+
+/*
+O/P:
+10
+*/
